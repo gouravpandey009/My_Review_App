@@ -40,9 +40,10 @@ npm run dev
 
 Check out the demo of this project:
 
-- ![Project GIF](./assets/Review_App_Gif.gif)
+- ![Project GIF](https://raw.githubusercontent.com/gouravpandey009/My_Review_App/main/assets/Review_App_Gif.gif)
 
 - [Watch GIF](https://drive.google.com/file/d/1RmF44jrHoG9AwfstoyMRv-Ce-S8GRJX2/view?usp=sharing)
+
 
 
 ## Features
