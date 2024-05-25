@@ -24,4 +24,5 @@ Check out the video preview of this project:
 
 Check out the live demo of this project on CodeSandbox:
 
-[![View my Code](https://codesandbox.io/p/devbox/review-app-forked-j3mrmq?embed=1&file=%2Fapp%2Fpage.tsx)
+[View my Code](https://codesandbox.io/p/devbox/review-app-forked-j3mrmq?embed=1&file=%2Fapp%2Fpage.tsx)
+
