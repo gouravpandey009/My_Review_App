@@ -40,7 +40,7 @@ npm run dev
 
 Check out the demo of this project:
 
- ![Project GIF](https://jumpshare.com/s/olCmCAknmQEpUojiwsFy)
+ ![Project GIF](assets/Review_App_Gif.gif)
 
 ## Features
 
