@@ -16,7 +16,7 @@ Check out the demo of this project:
 
 ## Video Preview
 
-Check out the video preview of this project:
+Check out the full video preview of this project:
 
 [Watch Video](https://drive.google.com/file/d/1RmF44jrHoG9AwfstoyMRv-Ce-S8GRJX2/view?usp=drive_link)
 
