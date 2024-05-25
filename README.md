@@ -1,7 +1,5 @@
-Certainly! I'll simplify the README.md file for you. Here it is:
-
 ```markdown
-# Awesome Next.js Project
+# Next.js Project
 
 Welcome to my awesome Next.js project!
 
@@ -14,17 +12,7 @@ To get started, clone this repository to your local machine and follow these ste
    git clone https://github.com/yourusername/your-repository.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Run the development server:
+ Run the development server:
    ```bash
    npm run dev
    ```
@@ -36,6 +24,13 @@ To get started, clone this repository to your local machine and follow these ste
 Check out the demo of this project:
 
 ![Project GIF](assets/Review_App_Gif.gif)
+
+## Video Preview
+
+Check out the video preview of this project:
+
+[Watch Video](https://drive.google.com/file/d/1RmF44jrHoG9AwfstoyMRv-Ce-S8GRJX2/view?usp=drive_link)
+
 
 ## Features
 
